@@ -2,8 +2,8 @@
 # Projeto de Conclusão de Módulo: Análise de Dados e Modelos de Machine Learning
 
 ## Autor
-**Nome**: [Seu Nome]  
-**GitHub**: [Seu GitHub](https://github.com/seuusuario)
+**Nome**: Murilo da Silva benedito  
+**GitHub**: https://github.com/MuriloSBenedito
 
 ---
 
@@ -26,14 +26,24 @@ Datasets utilizados:
    - Tendências ao longo dos anos de lançamento.
    - Exploração das classificações indicativas (rating).
 
-   ![Gráfico 1](notebook_0_image_0.png)
-   ![Gráfico 2](notebook_0_image_1.png)
+![image](https://github.com/user-attachments/assets/fa955b93-d0c6-4772-bb22-8a153f96198a)
+![image](https://github.com/user-attachments/assets/42b6d751-74cf-4f26-9f6f-81a103607960)
+![image](https://github.com/user-attachments/assets/d2ad3eb1-7804-46f3-8525-c814ad7d0015)
+
+
 
 2. **Modelo Desenvolvido**:
    - **Modelo Não Supervisionado**:
      - **Algoritmo**: KMeans.
      - **Objetivo**: Identificar padrões entre os títulos com base em gêneros e anos.
      - **Clusters**: `N` clusters identificados com características como `[descreva os clusters]`.
+     - 
+![image](https://github.com/user-attachments/assets/37363c1f-6b30-43bb-8d92-a95e1b71efd0)
+![image](https://github.com/user-attachments/assets/b6105654-3d6a-409d-900b-83ec0b8e9e5d)
+![image](https://github.com/user-attachments/assets/17d2d791-e8c8-4bb9-8336-3d39fbe68c95)
+
+
+
 
 ---
 
@@ -43,17 +53,20 @@ Datasets utilizados:
 ### O que foi feito:
 1. **Análise de Dados**:
    - Distribuição por gênero e etnia.
-     ![Distribuição por Gênero](students_image_0.png)
-   - Comparação de desempenhos médios em matemática, leitura e escrita.
-     ![Desempenho Médio por Etnia](students_image_1.png)
+![image](https://github.com/user-attachments/assets/cf7cb5bf-14f9-4b76-87ce-d7cce51a9910)
+
    - Correlações entre diferentes áreas de desempenho.
-     ![Correlação entre Notas](students_image_2.png)
+![image](https://github.com/user-attachments/assets/b5312c6e-9ca3-403d-8145-b29f55ef4cc5)
+![image](https://github.com/user-attachments/assets/c68e0063-d270-4325-b109-f83ebdda9475)
+
+
 
 2. **Modelo Desenvolvido**:
    - **Modelo Supervisionado**:
      - **Target**: Classificar os estudantes em categorias de desempenho (`alto`, `médio`, `baixo`).
      - **Algoritmo**: Random Forest.
      - **Resultados**: Acurácia de `YY%`.
+![image](https://github.com/user-attachments/assets/25cdb75b-5544-4392-92ef-7773c910b16e)
 
 ---
 
@@ -67,21 +80,3 @@ Datasets utilizados:
 
 ---
 
-## Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone <URL_DO_REPOSITÓRIO>
-   ```
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Abra e execute os notebooks:
-   - `notebook_netflix.ipynb`
-   - `notebook_students_performance.ipynb`
-
----
-
-## Contato
-- **Autor**: [Seu Nome]  
-- **GitHub**: [Seu GitHub](https://github.com/seuusuario)
